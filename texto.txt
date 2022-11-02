@@ -4,3 +4,4 @@ con una guida adiccional del equipo de platzi
 
 de paso a paso para tener datos exactos 
 
+tratando de desbugear a github
