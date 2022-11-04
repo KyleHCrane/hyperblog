@@ -1,13 +1,37 @@
 body {
-    color: blue;
+    color: #33a;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     
 }
 
+#cabecera {
+    background: #800;
+    box-shadow: 0px  5px 30px 0px black;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5mm;
+}
+
+#cabecera #tagline {
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.Bem;
+}
+
 #container {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+#container h1 {
+ font-size: 20px;
+}
+
+#post {
+    padding: 1em;
 }
